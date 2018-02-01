@@ -55,7 +55,7 @@ NC='\033[0m'
 # Menu
 echo ""
 echo -e "${RED}  (\_(\  ${NC}"
-echo -e "${RED} (=’ :’) :* ${NC} Script by Mnm Ami"
+echo -e "${RED} (=’ :’) :* ${NC} Script by BOSSVPN"
 echo -e "${RED}  (,(”)(”) °.¸¸.• ${NC}"
 echo ""
 echo "Debian 8-9 Ubuntu 14.04-16.04 Support"
@@ -402,8 +402,8 @@ sed -i $IP2 /etc/squid3/squid.conf;
 service squid3 restart
 
 echo ""
-echo "Source by Mnm Ami"
-echo "Donate via TrueMoney Wallet : 082-038-2600"
+echo "Source by BOSSVPN"
+echo "Donate via TrueMoney Wallet : 096-190-3931"
 echo ""
 echo "Install OpenVPN and Squid Proxy Finish"
 echo "IP Server : $IP"
@@ -453,8 +453,8 @@ sed -i $IP2 /etc/squid/squid.conf;
 service squid restart
 
 echo ""
-echo "Source by Mnm Ami"
-echo "Donate via TrueMoney Wallet : 082-038-2600"
+echo "Source by BOSSVPN"
+echo "Donate via TrueMoney Wallet : 096-190-3931"
 echo ""
 echo "Install OpenVPN and Squid Proxy Finish"
 echo "IP Server : $IP"
@@ -500,7 +500,7 @@ fi
 			if [[ "$Squid3" = "N" ]]; then
 
 			echo ""
-			echo "Source by Mnm Ami"
+			echo "Source by BOSSVPN"
 			echo "Donate via TrueMoney Wallet : 082-038-2600"
 			echo ""
 			echo "Install Pritunl Finish"
@@ -536,7 +536,7 @@ fi
 			if [[ "$Squid" = "N" ]]; then
 
 			echo ""
-			echo "Source by Mnm Ami"
+			echo "Source by BOSSVPN"
 			echo "Donate via TrueMoney Wallet : 082-038-2600"
 			echo ""
 			echo "Install Pritunl Finish"
@@ -572,7 +572,7 @@ fi
 			if [[ "$Squid3" = "N" ]]; then
 
 			echo ""
-			echo "Source by Mnm Ami"
+			echo "Source by BOSSVPN"
 			echo "Donate via TrueMoney Wallet : 082-038-2600"
 			echo ""
 			echo "Install Pritunl Finish"
@@ -609,7 +609,7 @@ fi
 			if [[ "$Squid" = "N" ]]; then
 
 			echo ""
-			echo "Source by Mnm Ami"
+			echo "Source by BOSSVPN"
 			echo "Donate via TrueMoney Wallet : 082-038-2600"
 			echo ""
 			echo "Install Pritunl Finish"
@@ -663,8 +663,8 @@ sed -i $IP2 /etc/squid3/squid.conf;
 service squid3 restart
 
 echo ""
-echo "Source by Mnm Ami"
-echo "Donate via TrueMoney Wallet : 082-038-2600"
+echo "Source by BOSSVPN"
+echo "Donate via TrueMoney Wallet : 096-190-3931"
 echo ""
 echo "Install Pritunl Finish"
 echo "Proxy : $IP"
@@ -712,8 +712,8 @@ sed -i $IP2 /etc/squid/squid.conf;
 service squid restart
 
 echo ""
-echo "Source by Mnm Ami"
-echo "Donate via TrueMoney Wallet : 082-038-2600"
+echo "Source by BOSSVPN"
+echo "Donate via TrueMoney Wallet : 096-190-3931"
 echo ""
 echo "Install Pritunl Finish"
 echo "Proxy : $IP"
@@ -788,8 +788,8 @@ sed -i $IP2 /etc/squid3/squid.conf;
 service squid3 restart
 
 echo ""
-echo "Source by Mnm Ami"
-echo "Donate via TrueMoney Wallet : 082-038-2600"
+echo "Source by BOSSVPN"
+echo "Donate via TrueMoney Wallet : 096-190-3931"
 echo ""
 echo "Install Squid Proxy Finish"
 echo "Proxy : $IP"
@@ -833,8 +833,8 @@ sed -i $IP2 /etc/squid/squid.conf;
 service squid restart
 
 echo ""
-echo "Source by Mnm Ami"
-echo "Donate via TrueMoney Wallet : 082-038-2600"
+echo "Source by BOSSVPN"
+echo "Donate via TrueMoney Wallet : 096-190-3931"
 echo ""
 echo "Install Squid Proxy Finish"
 echo "Proxy : $IP"
